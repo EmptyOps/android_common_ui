@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPri">#4e7b81</color>
+    <color name="colorPrimaryDark">#aeaeae</color>
+    <color name="colorPrimary_sark">#f0f5f5</color>
+    <color name="colorAccent">#009687</color>
+    <color name="colorAccent_sky">#20ccba</color>
+    <color name="white">#FFFFFF</color>
+    <color name="twitter">#6DACDF</color>
+    <color name="facebook">#3B5999</color>
+    <color name="face">#00B195</color>
+
+</resources>
